@@ -64,10 +64,10 @@ Consulta `pubspec.yaml` para la lista completa.
 
 1.- Clonar repositorio
 
-` bash
+```bash
 $ git clone https://github.com/diegopastabass/busTrackerChofer
 $ cd busTrackerChofer
-`
+```
 
 2.- Instalar dependencias
 
