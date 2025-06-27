@@ -100,3 +100,9 @@ Asegurate de aceptar los permisos de ubicación solicitados.
 3.- "El mapa se queda en blanco"
 
 La aplicación depende de un servicio de mapa externo `OpenStreetMap` por lo que debe tener conexión a internet.
+
+## 📜 Licencia
+
+MIT © 2025 Diego et al. 
+
+> Compílalo, pruébalo en la pista y comparte tus pull-requests. ¡Buen viaje!
