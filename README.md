@@ -65,22 +65,22 @@ Consulta `pubspec.yaml` para la lista completa.
 1.- Clonar repositorio
 
 ```bash
-$ git clone https://github.com/diegopastabass/busTrackerChofer
-$ cd busTrackerChofer
+git clone https://github.com/diegopastabass/busTrackerChofer
+cd busTrackerChofer
 ```
 
 2.- Instalar dependencias
 
-` bash
-$ flutter pub get
-`
+``` bash
+flutter pub get
+```
 
 3.- Compilar aplicación en dispositivo android
 
-` bash
-$ flutter devices
-$ flutter run <device-id>
-`
+``` bash
+flutter devices
+flutter run <device-id>
+```
 
 ---
 
